@@ -55,3 +55,19 @@ I enrolled in this course during my first semester at RIT from January 2023 to M
 
 </details>
 
+<details><summary>
+
+#### [R and Shiny](Assignment6):
+
+</summary>
+
+> 1. [Pick any dataset.](https://www.rdocumentation.org/packages/datasets/versions/3.6.2/topics/CO2)
+>
+> 2. Explore the data.
+>
+> 3. [Create at least two charts using ggplot2.](Assignment6/StaticPlots.r)
+>
+> 4. [Create at least two interactive visualizations using Shiny.](Assignment6/app.r)
+
+</details>
+
