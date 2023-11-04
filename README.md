@@ -4,6 +4,8 @@
 
 I enrolled in this course during my first semester at RIT from January 2023 to May 2023. I learned various visual analysis techniques, including Tableau, which I specifically focused on when we were given a choice. We also worked extensively with Jupyter Notebooks.
 
+<details>
+
 #### [Assignment 1](Assignment1):  
 
 ##### [Completed Tableau Viz](https://public.tableau.com/views/Grace_Tokyo/AirbnbinTokyoJapan?:language=en-US&:display_count=n&:origin=viz_share_link) 
@@ -18,3 +20,5 @@ I enrolled in this course during my first semester at RIT from January 2023 to M
 > 4. Create an interactive dashboard using the visualizations.
 >
 > 5. Create at least two story points regarding the dashboards and visualizations.
+
+</details>
