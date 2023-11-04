@@ -27,7 +27,7 @@ I enrolled in this course during my first semester at RIT from January 2023 to M
 
 <details><summary>
 
-#### [Python](Assignment4):
+#### [Python - Seaborn](Assignment4):
 
 </summary>
 
@@ -39,6 +39,19 @@ I enrolled in this course during my first semester at RIT from January 2023 to M
 > 3. Create at least seven nicely formatted, modern, multivariate plots.
 >
 > 4. Use markdown to write a professional report about the data and your plots.
+
+</details>
+
+<details><summary>
+
+#### [Python - Plotly Express and Plotly Dash](Assignment5):
+
+</summary>
+
+##### [Final Notebook](Assignment5/{Grace}--{penguins}--{Assignment5}.ipynb)
+> 1. [Use the same data that was used for the Seaborn assignment.](https://github.com/mwaskom/seaborn-data/blob/master/penguins.csv)
+>
+> 2. Create at least three plotly express visualizations and three plotly dash visualizations. Include at least one interactive component, such as a dropdown menu or a slider.
 
 </details>
 
