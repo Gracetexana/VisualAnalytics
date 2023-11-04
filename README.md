@@ -10,7 +10,7 @@ I enrolled in this course during my first semester at RIT from January 2023 to M
 > 1. [Obtain a dataset from AirBnB.](http://insideairbnb.com/get-the-data/)
   >
   > I chose to focus my viz on Tokyo because that is where I was living at the time that I took the course.
-> 3. Explore the data.
-> 4. Create four interactive visualizations.
-> 5. Create an interactive dashboard using the visualizations.
-> 6. Create at least two story points regarding the dashboards and visualizations.
+> 2. Explore the data.
+> 3. Create four interactive visualizations.
+> 4. Create an interactive dashboard using the visualizations.
+> 5. Create at least two story points regarding the dashboards and visualizations.
