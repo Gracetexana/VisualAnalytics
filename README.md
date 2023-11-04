@@ -6,7 +6,7 @@ I enrolled in this course during my first semester at RIT from January 2023 to M
 
 <details><summary>
 
-#### [Assignment 1](Assignment1):
+#### [Tableau](Assignment1):
 
 </summary>
 
@@ -24,3 +24,21 @@ I enrolled in this course during my first semester at RIT from January 2023 to M
 > 5. Create at least two story points regarding the dashboards and visualizations.
 
 </details>
+
+<details><summary>
+
+#### [Python](Assignment4):
+
+</summary>
+
+##### [Final Notebook](Assignment4/{Grace}--{penguins}.ipynb) 
+> 1. [Choose a dataset from seaborn's repository.](https://github.com/mwaskom/seaborn-data/blob/master/penguins.csv)
+>
+> 2. Do exploratory data analysis using pandas, matplotlib, and seaborn.
+>
+> 3. Create at least seven nicely formatted, modern, multivariate plots.
+>
+> 4. Use markdown to write a professional report about the data and your plots.
+
+</details>
+
